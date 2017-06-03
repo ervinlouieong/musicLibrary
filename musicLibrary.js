@@ -54,4 +54,4 @@ console.log(playlist1);
 console.log("==============================");
 console.log(`overall rating (${playlist1.name}) : ${playlist1.overallRating()}`); 
 console.log("==============================");
-console.log(`total duration (${playlist1.name}) : ${playlist1.totalDuration()}`);
+console.log(`total duration (${playlist1.name}) : ${playlist1.totalDuration()} seconds`);
